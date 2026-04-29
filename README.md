@@ -88,10 +88,10 @@
 
 ## 安装
 
-将本仓库放入你的 CLI / Agent 支持的 skills 目录即可。不同工具的目录名称可能不同，以下只是示例：
+将本仓库放入你的 CLI / Agent 支持的 skills 目录即可。不同工具的目录名称可能不同，以下只是示例(CodeX)：
 
 ```bash
-git clone <this-repo-url> ~/.agent/skills/zhuang-fangyi-agent
+git clone https://github.com/MengPaul07/zhuang-fangyi-skill ~/.agent/skills/zhuang-fangyi-agent
 ```
 
 也可以按你所用工具的安装方式添加本仓库，例如 `skills add <repo>`、复制到本地 skills 目录，或在 agent 配置里指向本仓库。
